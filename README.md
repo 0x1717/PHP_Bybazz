@@ -20,7 +20,9 @@
 
 ## :scroll: Details
 
-### If they are not functioning, you can explore the exploits coded by mm0r1 in the "exploits" folder and try running them based on the PHP version of the target system.
+### If they are not functioning, you can explore the exploits coded by mm0r1 in the "[exploits](https://github.com/0x1717/PHP_Bybazz/tree/main/exploits)" folder and try running them based on the PHP version of the target system.
+
+### If the "pcntl_exec" function is not disabled, you can get a reverse shell. [reverseS.php](https://github.com/0x1717/PHP_Bybazz/blob/main/src/reverseS.php)
 
 ## :scroll: Screenshots
 
